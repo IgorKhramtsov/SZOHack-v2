@@ -7,7 +7,7 @@ Visual and memory hack for SZone Online
 </div>
 
 Here is archived source code of my first programming project. __Its created on base of another cheat project__.
-Its a second version of cheat, first version is lost and third version is in another repo.  
+Its a second version of cheat, first version is lost and third version is [here](https://github.com/IgorKhramtsov/SZOHack-v3).  
 All code leaved in the same state as it was written, except minimal changes done to make it compilable.
 
 ## Description
