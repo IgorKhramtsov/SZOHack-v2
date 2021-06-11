@@ -28,9 +28,12 @@ Here is the functional:
 
 
 
-## Dependencies
-To run this code you will need DirectX 9 SDK of June 2010, injector and some app running on DirectX 9. All memhack functions wont run and disabled in code, otherwise app will crash right after inject.  
-Config `lib` and `include` folder in solution settings. Run app and inject dll. Menu activates on __Home__ button.
+## Dependencies  
+To compile this code you need DirectX 9 SDK of June 2010.
+Config `lib` and `include` folder in settings of solution.
   
+## How to run
+To run this code you need injector - [Xenos](https://github.com/DarthTon/Xenos) for example (use manual map injection type). And some app running on DirectX 9 (i attached some .exe i used in `misc` folder). All memhack functions wont run and disabled in code, otherwise app will crash right after inject. After compiling - select in injector `D3D9 Test.exe` file, compiled MultiHack.dll and click inject. Menu activates on __Home__ button.
+
 # Warning!
 Dont use this project in any game, its obsolete and open-sourced. Almost certainly you will be banned.
